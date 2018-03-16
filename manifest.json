@@ -1,0 +1,22 @@
+{
+  "name": "Site location",
+  "version": "0.0.0.1",
+  "manifest_version": 2,
+  "description": "Shows ip address, city, country and GMT zone about site in current tab",
+ "browser_action" : {
+    "default_icon": { "38": "images/38.png" },
+    "default_title": "Show information",
+    "default_popup": "src/info.html"
+  },
+  "icons": {
+    "38": "images/38.png",
+    "48": "images/48.png",
+    "64": "images/64.png",
+    "96": "images/96.png",
+    "128": "images/128.png"
+  },
+  "permissions": [
+    "<all_urls>",
+    "tabs"
+  ]
+}

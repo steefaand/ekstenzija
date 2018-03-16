@@ -1,0 +1,36 @@
+body{
+	background-color: azure;
+}
+.myTable
+{
+	color: #000000;
+	border: none;
+	font-size: 10px;
+	padding: 1px !important;
+	text-align: center;
+}
+.mainDiv
+{
+	background-color: azure;
+	color: #000000;
+	width: 225px;
+	padding: 6px;
+	text-align: center;
+	line-height: 1.6em;
+	font-size: 11px;
+	font-family: Verdana;
+}
+.myTable
+{
+	align-content: center;
+	align-items: center;
+	text-align: center;
+}
+.bold
+{
+	font-weight: bold;
+}
+#headline
+{
+	text-align: center;
+}
